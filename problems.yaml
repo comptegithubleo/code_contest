@@ -1,0 +1,17 @@
+- id:     chall1
+  label:  A
+  name:   Faire le plein
+  color:  Orange
+  rgb:    '#FF7109'
+
+- id:     chall2
+  label:  B
+  name:   Costumes quelque part
+  color:  Forest Green
+  rgb:    '#008100'
+
+- id:     chall3
+  label:  B
+  name:   Bout a bout
+  color:  Purple
+  rgb:    '#9933ff'
