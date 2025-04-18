@@ -42,7 +42,7 @@ int main(int argc, char **argv) {
 
 	author_message("author message\n");
 	judge_message("judge message\n");
-	judge_error("judge error\n");
+	//judge_error("judge error\n");
 
 	// Yay!
 	accept();

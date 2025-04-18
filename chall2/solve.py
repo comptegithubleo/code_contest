@@ -6,4 +6,4 @@ for i in range(n):
     line = sys.stdin.readline().rstrip('\n')
     total += int(line[2:])
 
-print(total)
+print(str(total)[:1] + "." + str(total)[1:])
