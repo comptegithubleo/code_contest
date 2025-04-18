@@ -39,11 +39,7 @@ int main(int argc, char **argv) {
 	if (author_out >> trash) {
 		wrong_answer("Trailing output: '%s'\n", trash.c_str());
 	}
-
-	author_message("author message\n");
-	judge_message("judge message\n");
-	//judge_error("judge error\n");
-
+	
 	// Yay!
 	accept();
 }
