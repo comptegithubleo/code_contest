@@ -53,4 +53,4 @@ with open(filename + ".in", "w") as f:
     print(','. join(answers))
 
 with open(filename + ".ans", "w") as f:
-    f.write(f"{answers}\n")
+    f.write(f"{','. join(answers)}\n")
